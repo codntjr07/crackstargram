@@ -1,0 +1,8 @@
+{
+  "name": "crack",
+  "description": "AI Character Social Platform - crack",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
